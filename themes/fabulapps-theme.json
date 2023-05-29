@@ -1,10 +1,29 @@
 {
-	"name": "Fabulapps Theme",
+	"name": "FabulApps Theme",
+	"author": "Gustavo Jordan Ramirez",
 	"colors": {
 		"editor.background": "#01090d",
 		"editor.foreground": "#47d1ff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#ebf708"
+		"sideBarTitle.foreground": "#ebf708",
+		"terminal.background": "#282A36",
+		"terminal.foreground": "#0df72a",
+		"terminal.ansiBrightBlack": "#6272A4",
+		"terminal.ansiBrightRed": "#FF6E6E",
+		"terminal.ansiBrightGreen": "#69FF94",
+		"terminal.ansiBrightYellow": "#ebf708",
+		"terminal.ansiBrightBlue": "#D6ACFF",
+		"terminal.ansiBrightMagenta": "#FF92DF",
+		"terminal.ansiBrightCyan": "#A4FFFF",
+		"terminal.ansiBrightWhite": "#FFFFFF",
+		"terminal.ansiBlack": "#21222C",
+		"terminal.ansiRed": "#FF5555",
+		"terminal.ansiGreen": "#50FA7B",
+		"terminal.ansiYellow": "#F1FA8C",
+		"terminal.ansiBlue": "#BD93F9",
+		"terminal.ansiMagenta": "#FF79C6",
+		"terminal.ansiCyan": "#8BE9FD",
+		"terminal.ansiWhite": "#F8F8F2",
 	},
 	"tokenColors": [
 		{

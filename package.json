@@ -9,12 +9,18 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+		"fabulapps",
+		"dark",
+		"theme",
+		"color-theme"
+	],
   "contributes": {
     "themes": [
       {
         "label": "Fabulapps Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Fabulapps Theme-color-theme.json"
+        "path": "./themes/fabulapps-theme.json"
       }
     ]
   }
