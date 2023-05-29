@@ -7,7 +7,7 @@
 
 ## Contributing
 
-Made for Developers, If you'd like to contribute to this theme, please read the [contributing guidelines](https://github.com/dracula/visual-studio-code/blob/HEAD/.github/CONTRIBUTING.md).
+Made for Developers, If you'd like to contribute to this theme, please read the [contributing guidelines]
 
 ## License
 
