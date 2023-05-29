@@ -1,7 +1,7 @@
 {
-  "name": "fabulapps",
-  "displayName": "fabulapps",
-  "description": "A Fabulous Theme",
+  "name": "fabulapps-theme",
+  "displayName": "fabulapps-theme",
+  "description": "A Fabulous Dark Visual Studio Theme ",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
@@ -9,18 +9,12 @@
   "categories": [
     "Themes"
   ],
-  "keywords": [
-		"fabulapps",
-		"dark",
-		"theme",
-		"color-theme"
-	],
   "contributes": {
     "themes": [
       {
-        "label": "Fabulapps Theme",
+        "label": "FabulApps Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/fabulapps-theme.json"
+        "path": "./themes/FabulApps Theme-color-theme.json"
       }
     ]
   }
