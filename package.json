@@ -1,0 +1,21 @@
+{
+  "name": "fabulapps",
+  "displayName": "fabulapps",
+  "description": "A Fabulous Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fabulapps Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fabulapps Theme-color-theme.json"
+      }
+    ]
+  }
+}
