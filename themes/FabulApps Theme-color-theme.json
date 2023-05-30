@@ -227,7 +227,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				//"fontStyle": "italic",
 				"foreground": "#FF5370"
 			}
 		},
