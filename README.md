@@ -2,12 +2,12 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![Screenshot](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
+![Screenshot](screenshot.png)
 
+screenshot.png
+## Made for Developers
 
-## Contributing
-
-Made for Developers, If you'd like to contribute to this theme, please read the [contributing guidelines]
+If you'd like it please give me a good review, thanks
 
 ## License
 
