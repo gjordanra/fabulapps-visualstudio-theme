@@ -2,9 +2,8 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![Screenshot](screenshot.png)
+<img src ="https://github.com/gjordanra/fabulapps-visualstudio-theme/blob/main/screenshot.png" />
 
-screenshot.png
 ## Made for Developers
 
 If you'd like it please give me a good review, thanks
