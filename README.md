@@ -6,8 +6,4 @@
 
 ## Made for Developers
 
-If you'd like it please give me a good review, thanks
-
-## License
-
-[MIT License](https://www.mit.edu/~amini/LICENSE.md)
+If you'd like the theme, please give me a good review, thanks!
