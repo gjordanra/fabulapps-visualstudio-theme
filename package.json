@@ -1,20 +1,27 @@
 {
   "name": "fabulapps-theme",
-  "displayName": "fabulapps-theme",
+  "displayName": "Fabulapps Dark Theme",
   "description": "A Fabulous Dark Visual Studio Theme ",
   "version": "0.0.1",
+  "publisher": "GustavoJordan",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+	"homepage": "https://github.com/gjordanra/fabulapps-visualstudio-theme/blob/main/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gjordanra/fabulapps-visualstudio-theme.git"
+	},
   "contributes": {
     "themes": [
       {
         "label": "FabulApps Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/FabulApps Theme-color-theme.json"
+        "path": "./themes/FabulApps-theme.json"
       }
     ]
   }
